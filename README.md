@@ -1,6 +1,10 @@
 # yadns
 Yandex Mail for Domain DNS REST API wrapper
 
+Project on PyPi:
+
+https://pypi.org/project/yadns/
+
 # Installation
 
 ```
