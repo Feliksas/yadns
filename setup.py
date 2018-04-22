@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='yadns',
-      version='0.1',
+      version='0.1.1',
       description='Wrapper for Yandex Mail for Domain DNS REST API',
       classifiers=[
         'Programming Language :: Python :: 2.7',
